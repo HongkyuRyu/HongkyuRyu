@@ -12,16 +12,16 @@
 ### 🚀 Timeline
 - (2023.09.12 ~ 2023.10) 2023 미래 내일 일 경험 사업 KT (진행 중)
   - Genie Air 결합 보험 상품 프로모션 기획안 (09.25 ~ 10.06)
-  - [숨:SUM 보험 X KT Genie Air](https://hongkyu08.oopy.io/efc9a247-4c2d-4eb5-9b5b-9e98c4be6911)
+  - [[숨:SUM 보험 X KT Genie Air]](https://hongkyu08.oopy.io/efc9a247-4c2d-4eb5-9b5b-9e98c4be6911)
   - 인공위성 기반 객체 탐지 서비스 (10.06 ~ 10.27)
 - (2023.08 ~ 2023.09) SKT AI 커리큘럼 수업 (진행 중)
-  - [mySUNI](https://mysuni.sk.com/login)
+  - [[mySUNI]](https://mysuni.sk.com/login)
 - (2023.02 ~ 2023.07) [KT AIVLE School 3기 AI Track](https://aivle.kt.co.kr/)
-  - [강아지킴] 반려견 건강관리 플랫폼 제작](https://hongkyu08.oopy.io/projects/4)
+  - [[강아지킴] 반려견 건강관리 플랫폼 제작](https://hongkyu08.oopy.io/projects/4)
   - 빅프로젝트 KT AIVLE School 핵심가치 Self-Motivation 수상
-  - [[KT AIVLE SChool Mini Project](https://hongkyu08.oopy.io/projects/1)
+  - [[KT AIVLE SChool Mini Project]](https://hongkyu08.oopy.io/projects/1)
 - (2023.04 ~ 2023.06) 동영상 Ctrl + F
-    - [[동영상 Ctrl+F] AI 기반 동영상 내 음성 및 글자 검색 서비스](https://github.com/Video-CtrlF/video-ctrlf-introduce)
+    - [[동영상 Ctrl+F]] AI 기반 동영상 내 음성 및 글자 검색 서비스](https://github.com/Video-CtrlF/video-ctrlf-introduce)
     - K-Digital Training 해커톤 60팀 본선 진출
 - (2023.03 ~ 2023.04) 금천구 다람쥐버스 노선 추천
     - [[금천구 다람쥐버스 노선 추천] 출퇴근시간대 다람쥐버스 추천을 통한 대중교통 접근성 해소 방안 제시](https://hongkyu08.oopy.io/projects/2)
