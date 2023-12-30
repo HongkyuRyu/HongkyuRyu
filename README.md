@@ -33,6 +33,10 @@
 - (2021.09 ~ 2021.12) 제 6회 INU Maker 경진대회 최우수상
 - (2018.03 ~ 2021.03) 인천대학교 교내 학술 토론 동아리 활동
 
+![Hongkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongkyuRyu&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubrother@naver.com)](https://solved.ac/minsubrother@naver.com)
+
+
 ### 🔨 Once I've Used
 ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
